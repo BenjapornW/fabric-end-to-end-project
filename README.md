@@ -11,4 +11,12 @@
 
 <img width="1438" height="768" alt="image" src="https://github.com/user-attachments/assets/c1fd1d6f-e09b-49b9-973d-2964daec6850" />
 
-3.
+3. Create a new table shortcut
+
+- Connect to Azure Data Lake Gen2
+<img width="1144" height="703" alt="image" src="https://github.com/user-attachments/assets/5a88fca6-60b1-4ae4-8e13-26ecf277635c" />
+
+
+
+<img width="1129" height="697" alt="image" src="https://github.com/user-attachments/assets/d4b2be3c-a93c-46d6-911f-75966af604d4" />
+<img width="1440" height="769" alt="image" src="https://github.com/user-attachments/assets/af61c935-6add-4c6d-8f68-e72ab47092e6" />
