@@ -23,3 +23,7 @@
 
 4. Create Dataflow nd import table to the silver layer
 <img width="1440" height="766" alt="image" src="https://github.com/user-attachments/assets/d4e0ef58-a0b4-4a97-88e2-8f357daab699" />
+
+
+Create a semantic model
+<img width="1440" height="758" alt="image" src="https://github.com/user-attachments/assets/bd71ac02-887d-4d71-b82d-f65f8c6726f8" />
