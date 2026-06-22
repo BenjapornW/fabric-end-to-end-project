@@ -13,10 +13,13 @@
 
 3. Create a new table shortcut
 
-- Connect to Azure Data Lake Gen2
+- Connect to Azure Data Lake Gen2 and import table to the bronze layer
 <img width="1144" height="703" alt="image" src="https://github.com/user-attachments/assets/5a88fca6-60b1-4ae4-8e13-26ecf277635c" />
 
 
 
 <img width="1129" height="697" alt="image" src="https://github.com/user-attachments/assets/d4b2be3c-a93c-46d6-911f-75966af604d4" />
 <img width="1440" height="769" alt="image" src="https://github.com/user-attachments/assets/af61c935-6add-4c6d-8f68-e72ab47092e6" />
+
+4. Create Dataflow nd import table to the silver layer
+<img width="1440" height="766" alt="image" src="https://github.com/user-attachments/assets/d4e0ef58-a0b4-4a97-88e2-8f357daab699" />
